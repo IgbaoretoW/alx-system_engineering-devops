@@ -1,2 +1,2 @@
 #!/bin/bash
-prontf '%/n' $DECIMAL
+prontf '%x/n' $DECIMAL
